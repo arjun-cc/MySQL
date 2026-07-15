@@ -38,4 +38,4 @@ properties:
 
   MYSQL_WORDPRESS_PASSWORD:
     vault: MYSQL_WORDPRESS_PASSWORD
-        revision : 27
+        revision : 28
